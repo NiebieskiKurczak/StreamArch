@@ -1,0 +1,8 @@
+NAME="StreamArchInstance"
+PRETTY_NAME="StreamArchInstance"
+ID="streamarch"
+ID_LIKE="arch"
+BUILD_ID=rolling
+ANSI_COLOR="38;2;220;20;60"
+LOGO="arch"
+
